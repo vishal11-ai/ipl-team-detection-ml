@@ -31,4 +31,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .env
-features.csv
+features_old.csv
