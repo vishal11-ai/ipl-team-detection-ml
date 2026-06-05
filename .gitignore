@@ -32,3 +32,4 @@ __pycache__/
 Thumbs.db
 .env
 features_old.csv
+data/features.csv
